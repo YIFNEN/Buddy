@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: JellyPannel
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"name":{"$content":"Page
+      Up","$type":"System.String"}},"position":{"x":-209.0,"y":-158.0},"guid":"0a8b728f-64e3-4cca-87f0-5a25fb112bdd","$version":"A","$type":"Unity.VisualScripting.BoltUnityEvent"},{"coroutine":false,"defaultValues":{"name":{"$content":"Page
+      Down","$type":"System.String"}},"position":{"x":-203.0,"y":54.0},"guid":"2d1a51eb-eddc-4f1c-9d2b-2c8d077834fd","$version":"A","$type":"Unity.VisualScripting.BoltUnityEvent"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"Page","$type":"System.String"}},"position":{"x":-203.0,"y":-58.0},"guid":"fd445897-5ad8-4eee-8a10-2d8c241c8ca9","$version":"A","$type":"Unity.VisualScripting.GetVariable"},{"numeric":true,"defaultValues":{"b":{"$content":0.0,"$type":"System.Single"}},"position":{"x":97.0,"y":-92.0},"guid":"c759e2ff-014e-4156-993e-e16702148839","$version":"A","$type":"Unity.VisualScripting.Equal"}],"$version":"A"}}'
+    _objectReferences: []
