@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
+    public int[] Itemgoldlist;
     public Vector3[] PointList;
 
     public RuntimeAnimatorController[] LevelAc;
