@@ -6,6 +6,9 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public int[] Itemgoldlist;
+    public Sprite[] JellySpritelist;
+    public int[] JellyJelatinlist;
+    public string[] JellyNamelist;
     public Vector3[] PointList;
 
     public RuntimeAnimatorController[] LevelAc;
