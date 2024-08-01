@@ -50,7 +50,7 @@ namespace SampleGame.Lobby
             //  게임 시작 버튼 클릭 이벤트 처리
             gui.gameStartButton.onClick = () =>
             {
-                onChangeScene("InGame");
+                onChangeScene("SampleScene");
 
                 //
                 //UnityEngine.SceneManagement.SceneManager.LoadScene(0);

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\Sample Game",
+    "\\Assets\\Sample Game\\Scripts",
+    "\\Assets\\Sample Game\\Scripts\\InGame",
+    "\\Assets\\Sample Game\\Scripts\\InGame\\InputManager",
+    "\\Assets\\Sample Game\\Scripts\\Lobby",
+    "\\Assets\\Sample Game\\Scripts\\Lobby\\InputManager",
+    "\\Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\States"
+  ],
+  "SelectedNode": "\\Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\States\\Input.States.Lobby.cs",
+  "PreviewInSolutionExplorer": false
+}
