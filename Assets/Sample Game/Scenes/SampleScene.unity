@@ -1219,7 +1219,7 @@ Transform:
   m_GameObject: {fileID: 686639281}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalPosition: {x: 0, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2249,9 +2249,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Itemgoldlist: 050000000a000000140000003200000064000000960000002c0100009001000058020000bc020000
   PointList:
-  - {x: -10, y: -5.5, z: -1}
-  - {x: 0, y: -5.5, z: 0}
-  - {x: -10, y: -5.5, z: -1}
+  - {x: -10, y: -4, z: -1}
+  - {x: 0, y: -4, z: 0}
+  - {x: 10, y: -4, z: -1}
   LevelAc:
   - {fileID: 9100000, guid: 8c7845f2d3a629943afc1519da279300, type: 2}
   - {fileID: 9100000, guid: cf4db5108a8b1874692fcde7c19517c8, type: 2}
@@ -3530,7 +3530,7 @@ Transform:
   m_GameObject: {fileID: 1768294628}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -14, y: -3, z: 0}
+  m_LocalPosition: {x: -11, y: -2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3561,7 +3561,7 @@ Transform:
   m_GameObject: {fileID: 1777370637}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10, y: -8, z: 0}
+  m_LocalPosition: {x: 11, y: -6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
