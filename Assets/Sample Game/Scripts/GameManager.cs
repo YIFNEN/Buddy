@@ -10,7 +10,8 @@ public class GameManager : MonoBehaviour
     public int[] JellyJelatinlist;
     public string[] JellyNamelist;
     public Vector3[] PointList;
-
+    public int[] numgoldlist;
+    public int[] clickgoldlist;
     public RuntimeAnimatorController[] LevelAc;
 
     public void ChangeAC(Animator anim, int level)

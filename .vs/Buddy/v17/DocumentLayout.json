@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sample Game\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Jelly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sample Game\\Scripts\\Jelly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\InGame\\InputManager\\Input Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\InputManager\\InputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\GUI\\Screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\States\\Input.States.Lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\States\\Input.States.Lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Third Party\\Farming Asset Pack\\NOTES.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Third Party\\Farming Asset Pack\\NOTES.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\InputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\InputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Core\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sample Game\\Scripts\\Core\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Lobby\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sample Game\\Scripts\\Lobby\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Core\\GUI\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sample Game\\Scripts\\Core\\GUI\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jelly.cs",
+              "DocumentMoniker": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Jelly.cs",
+              "RelativeDocumentMoniker": "Assets\\Sample Game\\Scripts\\Jelly.cs",
+              "ToolTip": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Jelly.cs",
+              "RelativeToolTip": "Assets\\Sample Game\\Scripts\\Jelly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:27:45.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Input.States.Lobby.cs",
+              "DocumentMoniker": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\States\\Input.States.Lobby.cs",
+              "RelativeDocumentMoniker": "Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\States\\Input.States.Lobby.cs",
+              "ToolTip": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\States\\Input.States.Lobby.cs",
+              "RelativeToolTip": "Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\States\\Input.States.Lobby.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:27:43.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Input Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\InGame\\InputManager\\Input Manager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\InGame\\InputManager\\Input Manager.cs",
+              "ToolTip": "C:\\Users\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\InGame\\InputManager\\Input Manager.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\InGame\\InputManager\\Input Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:17:59.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\InputManager\\InputManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\InputManager\\InputManager.cs",
+              "ToolTip": "C:\\Users\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\InputManager\\InputManager.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\InputManager\\InputManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:10:36.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Screen.cs",
+              "DocumentMoniker": "C:\\Users\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\GUI\\Screen.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\GUI\\Screen.cs",
+              "ToolTip": "C:\\Users\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\GUI\\Screen.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Student.LAPTOP-25ETV4UI\\Desktop\\\uC0C8\uD640\uB9AC\uAE30\\Buddy\\Assets\\Sample Game\\Scripts\\GUI\\Screen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:45:36.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NOTES.txt",
+              "DocumentMoniker": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Third Party\\Farming Asset Pack\\NOTES.txt",
+              "RelativeDocumentMoniker": "Assets\\Third Party\\Farming Asset Pack\\NOTES.txt",
+              "ToolTip": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Third Party\\Farming Asset Pack\\NOTES.txt",
+              "RelativeToolTip": "Assets\\Third Party\\Farming Asset Pack\\NOTES.txt",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-04T16:27:43.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Sample Game\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Sample Game\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:27:43.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\InputManager.cs",
+              "ToolTip": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Sample Game\\Scripts\\Lobby\\InputManager\\InputManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:27:43.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Core\\Client.cs",
+              "RelativeDocumentMoniker": "Assets\\Sample Game\\Scripts\\Core\\Client.cs",
+              "ToolTip": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Core\\Client.cs",
+              "RelativeToolTip": "Assets\\Sample Game\\Scripts\\Core\\Client.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAADgvx4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:27:43.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Lobby\\Client.cs",
+              "RelativeDocumentMoniker": "Assets\\Sample Game\\Scripts\\Lobby\\Client.cs",
+              "ToolTip": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Lobby\\Client.cs",
+              "RelativeToolTip": "Assets\\Sample Game\\Scripts\\Lobby\\Client.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:27:43.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Core\\GUI\\Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Sample Game\\Scripts\\Core\\GUI\\Button.cs",
+              "ToolTip": "C:\\Users\\perion\\Desktop\\Unity github\\Buddy\\Buddy\\Assets\\Sample Game\\Scripts\\Core\\GUI\\Button.cs",
+              "RelativeToolTip": "Assets\\Sample Game\\Scripts\\Core\\GUI\\Button.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:27:43.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
