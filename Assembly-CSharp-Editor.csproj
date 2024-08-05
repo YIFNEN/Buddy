@@ -92,8 +92,8 @@
     <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Editor\Attributes\ValidateInputAttributeProcessor.cs" />
     <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Editor\InspectorProperty\InspectorPropertyGroup.cs" />
     <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Editor\LucidEditorGUILayout.cs" />
-    <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Editor\Attributes\ReadOnlyAttributeProcessor.cs" />
     <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Editor\Attributes\IndentAttributeProcessor.cs" />
+    <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Editor\Attributes\ReadOnlyAttributeProcessor.cs" />
     <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Editor\Attributes\RequiredAttributeProcessor.cs" />
     <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Editor\EditorColors.cs" />
     <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Editor\Attributes\BlockquoteAttributeProcessor.cs" />
