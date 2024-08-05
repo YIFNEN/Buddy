@@ -31,21 +31,6 @@ namespace SampleGame.Lobby
 
             stateMachine.Add(state);
 
-
-            //==================================================================
-            //  인벤토리 버튼 클릭 이벤트 처리
-
-            gui.inventoryButton.onClick = () =>
-            {
-                stateMachine.Push(States.Inventory);
-
-                /*var viewer = stateStack.Pop() as SampleGame.Viewer;
-                viewer.Hide();*/
-
-
-                //stateStack.Push(viewer);
-            };
-
             //==================================================================
             //  게임 시작 버튼 클릭 이벤트 처리
             gui.gameStartButton.onClick = () =>
@@ -55,6 +40,10 @@ namespace SampleGame.Lobby
                 //
                 //UnityEngine.SceneManagement.SceneManager.LoadScene(0);
             };
+
+            //==================================================================
+            //  인벤토리 버튼 클릭 이벤트 처리
+
         }
 
     }

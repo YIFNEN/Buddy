@@ -59,20 +59,6 @@ namespace SampleGame.Lobby
                 var home = gui.homeButton;
                 home.Hide();
             }
-
-            var state = new State<States>(States.Inventory);
-            state.onEnter = OnEnter;
-            state.onExit = OnExit;
-
-            stateMachine.Add(state);
-
-            //==================================================================
-            //  아이템 클릭;
-            gui.itemButton.onClick = () =>
-            {
-                stateMachine.Push(States.Item);
-            };
-
         }
     }
 }
