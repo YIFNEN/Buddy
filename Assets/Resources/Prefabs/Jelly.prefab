@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 4357064710371944326}
   - component: {fileID: 882078092065064592}
   - component: {fileID: 7708844410805386219}
+  - component: {fileID: 2375954223842869744}
   m_Layer: 0
   m_Name: Jelly
   m_TagString: Untagged
@@ -181,6 +182,20 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0.5}
   serializedVersion: 2
   m_Radius: 0.5
+--- !u!114 &2375954223842869744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1279789882675074014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d07391bb993979419206eddec308169, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  heartPrefab: {fileID: 0}
+  heartSpawnOffset: 0.5
 --- !u!1 &2070105959498788519
 GameObject:
   m_ObjectHideFlags: 0
