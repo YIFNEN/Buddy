@@ -100,6 +100,7 @@
     <Compile Include="Assets\Sample Game\Scripts\Lobby\GUIManager\Inventory\ItemButton.cs" />
     <Compile Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Core\Property Providers\PropertyProvider_UnityEngine_ParticleSystem_MinMaxCurve.cs" />
     <Compile Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Core\Property Providers\PropertyProvider_TMPro_TMP_InputField_TouchScreenKeyboardEvent.cs" />
+    <Compile Include="Assets\Sample Game\Macros\HeartController.cs" />
     <Compile Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Core\Property Providers\PropertyProvider_UnityEngine_TextCore_Text_UnicodeLineBreakingRules.cs" />
     <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Runtime\PropertyGroupAttribute.cs" />
     <Compile Include="Assets\Sample Game\Scripts\Lobby\InputManager\States\Input.States.Item.cs" />
@@ -119,6 +120,7 @@
     <Compile Include="Assets\Sample Game\Scripts\Core\GUI\Screen.cs" />
     <Compile Include="Assets\Sample Game\Scripts\InGame\Client.cs" />
     <Compile Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Core\Property Providers\PropertyProvider_UnityEngine_UI_Button_ButtonClickedEvent.cs" />
+    <Compile Include="Assets\Sample Game\Macros\JellyClick.cs" />
     <Compile Include="Assets\Sample Game\Third Party\Cainos\Third Party\Lucid Editor\Runtime\Attributes\DisableInEditModeAttribute.cs" />
     <Compile Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Core\Property Providers\PropertyProvider_UnityEngine_TextCore_Text_SpriteCharacter.cs" />
     <Compile Include="Assets\Sample Game\Third Party\Cainos\Pixel Art Platformer - Village Props\Script\Chest.cs" />

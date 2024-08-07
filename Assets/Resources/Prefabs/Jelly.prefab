@@ -194,7 +194,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d07391bb993979419206eddec308169, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  heartPrefab: {fileID: 0}
+  heartPrefab: {fileID: 4364626309604832576, guid: 81fb777df6c6cb64b8293a3cea063bf3,
+    type: 3}
   heartSpawnOffset: 0.5
 --- !u!1 &2070105959498788519
 GameObject:
