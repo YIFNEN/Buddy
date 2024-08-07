@@ -50,3 +50,7 @@ crashlytics-build.properties
 .build/
 Assembly-CSharp-Editor.csproj
 Assembly-CSharp.csproj
+Assembly-CSharp.csproj
+Assembly-CSharp.csproj
+*.csproj
+Assembly-CSharp.csproj
